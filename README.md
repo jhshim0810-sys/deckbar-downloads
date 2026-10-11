@@ -16,9 +16,9 @@ This repository contains distribution information and published installers. The 
 
 ## Windows releases
 
-The Windows 0.7.1 (3) **unsigned preview** is available under [Releases](https://github.com/jhshim0810-sys/deckbar-downloads/releases/tag/windows-v0.7.1-build3-preview). Read its installation notes before downloading. Windows may warn or block execution; do not disable security protection to install it. A compatible DeckBar phone or tablet app must already be installed; public mobile distribution is still in preparation. Sales remain closed.
+Published Windows previews are listed under [Releases](https://github.com/jhshim0810-sys/deckbar-downloads/releases). If no installer is listed, public distribution is still being prepared. Read the installation notes before downloading an **unsigned preview**. Windows may warn or block execution; do not disable security protection to install it. A compatible DeckBar phone or tablet app must already be installed; public mobile distribution is still in preparation. Sales remain closed.
 
-Windows 0.7.1 (3) **미서명 사전 체험판**을 [Releases](https://github.com/jhshim0810-sys/deckbar-downloads/releases/tag/windows-v0.7.1-build3-preview)에서 제공합니다. 받기 전에 설치 안내를 읽어 주세요. Windows가 경고하거나 실행을 차단할 수 있으며, 설치를 위해 보안 기능을 끄지 마세요. 호환되는 DeckBar 폰·태블릿 앱이 이미 있어야 합니다. 모바일 앱 일반 공개와 정식 판매는 준비 중입니다.
+공개된 Windows 사전 체험판은 [Releases](https://github.com/jhshim0810-sys/deckbar-downloads/releases)에 표시됩니다. 설치 파일이 보이지 않으면 아직 공개 준비 중입니다. **미서명 사전 체험판**을 받기 전에 설치 안내를 읽어 주세요. Windows가 경고하거나 실행을 차단할 수 있으며, 설치를 위해 보안 기능을 끄지 마세요. 호환되는 DeckBar 폰·태블릿 앱이 이미 있어야 합니다. 모바일 앱 일반 공개와 정식 판매는 준비 중입니다.
 
 Download only from the official site or a release linked from it. The preview has no authenticated publisher signature. Its checksum detects changed bytes; it does not authenticate the publisher. If the file differs from the release notes, stop and contact support through the official site.
 
